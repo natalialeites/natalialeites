@@ -1,6 +1,5 @@
-<div align="left"> Hi, I'm Natalia! 
-  <img widht="45px" height ="45px" src="https://media.tenor.com/M-3dhXNRvWgAAAAi/peak-hi.gif"/>
-</div>
+### Hi, I'm Natalia! <img widht="45px" height ="45px" src="https://media.tenor.com/M-3dhXNRvWgAAAAi/peak-hi.gif"/>
+
 
 ##
 
