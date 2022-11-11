@@ -1,4 +1,8 @@
-### Olá, meu nome é Natália! Bem vindos
+<div align="left"> Hi, I'm Natalia! 
+  <img widht="50px" height ="50px" src="https://media.tenor.com/M-3dhXNRvWgAAAAi/peak-hi.gif"/>
+</div>
+
+##
 
 <div align="center">
   <a href="https://github.com/natalialeites">
@@ -14,7 +18,7 @@
   
   ##
   
-  <div align= center>
+  <div>
  <a href = "mailto:natalia.leites@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natalialeits/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
