@@ -1,5 +1,8 @@
 ### Hi, I'm Natalia! <img widht="45px" height ="45px" src="https://media.tenor.com/M-3dhXNRvWgAAAAi/peak-hi.gif"/>
 
+💻 I'm a student of systems analysis and development.
+🚀 I have dedicated myself to studies focusing on Front-end, but always open to new experiences.
+🔭 Looking for the first job opportunity in the technology field.
 
 ##
 
