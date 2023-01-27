@@ -1,6 +1,7 @@
-### Hi, I'm Natalia! <img widht="45px" height ="45px" src="https://media.tenor.com/M-3dhXNRvWgAAAAi/peak-hi.gif"/>
+### Hi there!!
+  I'm Natalia! <img widht="45px" height ="45px" src="https://media.tenor.com/M-3dhXNRvWgAAAAi/peak-hi.gif"/>
 
-💻 I'm a student of systems analysis and development. </br>
+💻 Student of systems analysis and development. </br>
 🔭 Looking for the first job opportunity in the technology field.</br>
 
 ##
